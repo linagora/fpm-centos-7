@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.org/linagora/fpm-centos-7.svg?branch=master)
+
 # fpm-centos-7
 A Docker image to build FPM packages on CentOS 7
 
